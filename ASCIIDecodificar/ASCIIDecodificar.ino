@@ -1,4 +1,5 @@
-
+//Versión final.
+//El largo del mensaje no tiene un mínimo ni un máximo.
 const int pinD0 = 2;
 const int pinD1 = 3;
 const int pinD2 = 4;
