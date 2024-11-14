@@ -1,4 +1,5 @@
-// Pines conectados al HT12D
+// Versión preliminar
+// El mensaje es de solo 4 bits
 const int pinD0 = 2;  // D0 del HT12D
 const int pinD1 = 3;  // D1 del HT12D
 const int pinD2 = 4;  // D2 del HT12D
