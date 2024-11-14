@@ -1,0 +1,20 @@
+C:\Users\100077363\source\repos\PracticaV3\bin\Debug\PracticaV3.exe.config
+C:\Users\100077363\source\repos\PracticaV3\bin\Debug\PracticaV3.exe
+C:\Users\100077363\source\repos\PracticaV3\bin\Debug\PracticaV3.pdb
+C:\Users\100077363\source\repos\PracticaV3\obj\Debug\PracticaV3.csproj.AssemblyReference.cache
+C:\Users\100077363\source\repos\PracticaV3\obj\Debug\PracticaV3.Form1.resources
+C:\Users\100077363\source\repos\PracticaV3\obj\Debug\PracticaV3.Properties.Resources.resources
+C:\Users\100077363\source\repos\PracticaV3\obj\Debug\PracticaV3.csproj.GenerateResource.cache
+C:\Users\100077363\source\repos\PracticaV3\obj\Debug\PracticaV3.csproj.CoreCompileInputs.cache
+C:\Users\100077363\source\repos\PracticaV3\obj\Debug\PracticaV3.exe
+C:\Users\100077363\source\repos\PracticaV3\obj\Debug\PracticaV3.pdb
+C:\Users\manue\OneDrive - Instituto Tecnológico de Aguascalientes\5º\Tec. Inalámbricas (Carlos Báez)\CodigoTecnologiasInalambricas-main\PracticaV3\bin\Debug\PracticaV3.exe.config
+C:\Users\manue\OneDrive - Instituto Tecnológico de Aguascalientes\5º\Tec. Inalámbricas (Carlos Báez)\CodigoTecnologiasInalambricas-main\PracticaV3\bin\Debug\PracticaV3.exe
+C:\Users\manue\OneDrive - Instituto Tecnológico de Aguascalientes\5º\Tec. Inalámbricas (Carlos Báez)\CodigoTecnologiasInalambricas-main\PracticaV3\bin\Debug\PracticaV3.pdb
+C:\Users\manue\OneDrive - Instituto Tecnológico de Aguascalientes\5º\Tec. Inalámbricas (Carlos Báez)\CodigoTecnologiasInalambricas-main\PracticaV3\obj\Debug\PracticaV3.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive - Instituto Tecnológico de Aguascalientes\5º\Tec. Inalámbricas (Carlos Báez)\CodigoTecnologiasInalambricas-main\PracticaV3\obj\Debug\PracticaV3.Form1.resources
+C:\Users\manue\OneDrive - Instituto Tecnológico de Aguascalientes\5º\Tec. Inalámbricas (Carlos Báez)\CodigoTecnologiasInalambricas-main\PracticaV3\obj\Debug\PracticaV3.Properties.Resources.resources
+C:\Users\manue\OneDrive - Instituto Tecnológico de Aguascalientes\5º\Tec. Inalámbricas (Carlos Báez)\CodigoTecnologiasInalambricas-main\PracticaV3\obj\Debug\PracticaV3.csproj.GenerateResource.cache
+C:\Users\manue\OneDrive - Instituto Tecnológico de Aguascalientes\5º\Tec. Inalámbricas (Carlos Báez)\CodigoTecnologiasInalambricas-main\PracticaV3\obj\Debug\PracticaV3.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive - Instituto Tecnológico de Aguascalientes\5º\Tec. Inalámbricas (Carlos Báez)\CodigoTecnologiasInalambricas-main\PracticaV3\obj\Debug\PracticaV3.exe
+C:\Users\manue\OneDrive - Instituto Tecnológico de Aguascalientes\5º\Tec. Inalámbricas (Carlos Báez)\CodigoTecnologiasInalambricas-main\PracticaV3\obj\Debug\PracticaV3.pdb
